@@ -1,2 +1,2 @@
 # Pokemon-Classification
-Pokemon Classification for 5 Pokemons with Dense and Convolutional Neural Networks and the comparison of their results. Data collection has been for the Pokemons.
+Made dataset for 5 Pokémons by using the Bing Web Search API. Trained both dense and convolutional neural networks to show the performance difference between the regular dense networks and convolutional neural networks.
